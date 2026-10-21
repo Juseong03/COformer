@@ -66,8 +66,9 @@ For more advanced configurations, the script supports additional arguments:
 `--device`: Device choice, where -1 is for CPU, and 0 or 1 are for GPU. Default is -1.
 
 
-
-
+### Additional information
+Enhancing protein expression in humans through codon optimization with transformer and contrastive learning
+Molecular Therapy Nucleic Acids, 2026; 37
 
 
 
